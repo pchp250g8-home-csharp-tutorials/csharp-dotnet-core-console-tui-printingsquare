@@ -1,4 +1,4 @@
-PrintingSquare. C# Tutorials. Advanced Console Features. DotNet Core Platform. TUI. Console Application. 
+PrintingSquare. C# Tutorials. Advanced Console Features. DotNet Core Platform. TUI. Console Application.
 Advanced Features. PDCurses Library.
 The program does the following:
   1. Creates a standard terminal size window (80 columns, 25 rows).
@@ -8,7 +8,7 @@ The program does the following:
      4.1. The initial value of the loop parameter is assigned 0 (the numbering of string characters starts from 0).
      4.2. The final value of the loop parameter is assigned a value that is 1 less than the length of the string.
      4.3. The value of the loop parameter is compared with the end value of the loop.
-         If it is greater, the loop terminates and continues otherwise.
+          If it is greater, the loop terminates and continues otherwise.
      4.4. A series of cycles is performed.
          4.4.1. In row 10 and column 10 plus the current value of the loop parameter,
                 the symbol under the number of the current value of the loop parameter is displayed.
@@ -31,8 +31,8 @@ PrintingSquare. Занятия по С#. Расширинные возможно
           Если оно больше, цикл завершает работу и продолжает её в противном случае.
      4.4. Выполняется серия цикла.
           4.4.1. В строку 10 и столбец 10 плюс текущее значение параметра цикла выводится символ
-          под номером текущего значения параметра цикла.
-          За символом строки выводится символ "квадрат".
+                 под номером текущего значения параметра цикла.
+                 За символом строки выводится символ "квадрат".
           4.4.2. Программа делает паузу на 500 милисекунд.
      4.5. Значение параметра цикла увеличивается на 1 (шаг цикла). 
   5. Строковая переменная печатается целиком без символа "квадрат" в позиции 10 строка и 10 столбец.
